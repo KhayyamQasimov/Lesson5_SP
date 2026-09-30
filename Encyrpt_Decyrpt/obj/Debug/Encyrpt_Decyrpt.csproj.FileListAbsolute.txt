@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\c#\Encyrpt_Decyrpt\Encyrpt_Decyrpt\bin\Debug\Encyrpt_Decyrpt.exe.config
+C:\Users\Admin\Desktop\c#\Encyrpt_Decyrpt\Encyrpt_Decyrpt\bin\Debug\Encyrpt_Decyrpt.exe
+C:\Users\Admin\Desktop\c#\Encyrpt_Decyrpt\Encyrpt_Decyrpt\bin\Debug\Encyrpt_Decyrpt.pdb
+C:\Users\Admin\Desktop\c#\Encyrpt_Decyrpt\Encyrpt_Decyrpt\obj\Debug\Encyrpt_Decyrpt.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\Encyrpt_Decyrpt\Encyrpt_Decyrpt\obj\Debug\Encyrpt_Decyrpt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\Encyrpt_Decyrpt\Encyrpt_Decyrpt\obj\Debug\Encyrpt_Decyrpt.exe
+C:\Users\Admin\Desktop\c#\Encyrpt_Decyrpt\Encyrpt_Decyrpt\obj\Debug\Encyrpt_Decyrpt.pdb
+C:\Users\Admin\Desktop\c#\Encyrpt_Decyrpt\Encyrpt_Decyrpt\obj\Debug\Encyrpt_Decyrpt.exe.config

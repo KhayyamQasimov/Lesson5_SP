@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\c#\\Encyrpt_Decyrpt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8A6304-D5BB-4BCD-AC28-455FB946EE87}|Encyrpt_Decyrpt\\Encyrpt_Decyrpt.csproj|c:\\users\\admin\\desktop\\c#\\encyrpt_decyrpt\\encyrpt_decyrpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8A6304-D5BB-4BCD-AC28-455FB946EE87}|Encyrpt_Decyrpt\\Encyrpt_Decyrpt.csproj|solutionrelative:encyrpt_decyrpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8A6304-D5BB-4BCD-AC28-455FB946EE87}|Encyrpt_Decyrpt\\Encyrpt_Decyrpt.csproj|c:\\users\\admin\\desktop\\c#\\encyrpt_decyrpt\\encyrpt_decyrpt\\aesoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8A6304-D5BB-4BCD-AC28-455FB946EE87}|Encyrpt_Decyrpt\\Encyrpt_Decyrpt.csproj|solutionrelative:encyrpt_decyrpt\\aesoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8A6304-D5BB-4BCD-AC28-455FB946EE87}|Encyrpt_Decyrpt\\Encyrpt_Decyrpt.csproj|c:\\users\\admin\\desktop\\c#\\encyrpt_decyrpt\\encyrpt_decyrpt\\cyrptomethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8A6304-D5BB-4BCD-AC28-455FB946EE87}|Encyrpt_Decyrpt\\Encyrpt_Decyrpt.csproj|solutionrelative:encyrpt_decyrpt\\cyrptomethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8A6304-D5BB-4BCD-AC28-455FB946EE87}|Encyrpt_Decyrpt\\Encyrpt_Decyrpt.csproj|c:\\users\\admin\\desktop\\c#\\encyrpt_decyrpt\\encyrpt_decyrpt\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8A6304-D5BB-4BCD-AC28-455FB946EE87}|Encyrpt_Decyrpt\\Encyrpt_Decyrpt.csproj|solutionrelative:encyrpt_decyrpt\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loading.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Encyrpt_Decyrpt\\Encyrpt_Decyrpt\\Loading.cs",
+              "RelativeDocumentMoniker": "Encyrpt_Decyrpt\\Loading.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Encyrpt_Decyrpt\\Encyrpt_Decyrpt\\Loading.cs",
+              "RelativeToolTip": "Encyrpt_Decyrpt\\Loading.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:52:21.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CyrptoMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Encyrpt_Decyrpt\\Encyrpt_Decyrpt\\CyrptoMethod.cs",
+              "RelativeDocumentMoniker": "Encyrpt_Decyrpt\\CyrptoMethod.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Encyrpt_Decyrpt\\Encyrpt_Decyrpt\\CyrptoMethod.cs",
+              "RelativeToolTip": "Encyrpt_Decyrpt\\CyrptoMethod.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:47:30.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AesOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Encyrpt_Decyrpt\\Encyrpt_Decyrpt\\AesOperation.cs",
+              "RelativeDocumentMoniker": "Encyrpt_Decyrpt\\AesOperation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Encyrpt_Decyrpt\\Encyrpt_Decyrpt\\AesOperation.cs",
+              "RelativeToolTip": "Encyrpt_Decyrpt\\AesOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:15:16.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Encyrpt_Decyrpt\\Encyrpt_Decyrpt\\Program.cs",
+              "RelativeDocumentMoniker": "Encyrpt_Decyrpt\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Encyrpt_Decyrpt\\Encyrpt_Decyrpt\\Program.cs",
+              "RelativeToolTip": "Encyrpt_Decyrpt\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwD4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:54:39.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
